@@ -17,7 +17,7 @@ The output is the path
 
 ## Then, I gerating path for a Polygonal non-rotating Robot by Road Mapping using the Dijkstra
 
-**To solve this problem, I implement Expanded Obstacles method
+**To solve this problem, I implement Expanded Obstacles method**
 
 ---
 
