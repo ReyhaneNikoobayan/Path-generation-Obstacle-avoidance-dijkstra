@@ -6,7 +6,6 @@ The function receives:
 
 - N → Number of obstacles
 - Sxi, Syi, Exi, Eyi → Coordinates of the two endpoints forming the obstacle
-- SxN, SyN, ExN, EyN 
 - X_start, Y_start  →  coordinates of the starting point
 - X_end, Y_end  →  coordinates of the final destination
 
