@@ -15,7 +15,7 @@ The output is the path
 
 <img width="1342" height="936" alt="image" src="https://github.com/user-attachments/assets/84699967-0b90-4765-8f85-684d31921d64" />
 
-## Then, I gerating path for a Polygonal non-rotating Robot by Road Mapping using the Dijkstra
+## Then, I generated path for a Polygonal non-rotating Robot by Road Mapping using the Dijkstra
 
 **To solve this problem, I implement Expanded Obstacles method**
 
